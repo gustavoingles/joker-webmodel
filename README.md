@@ -9,8 +9,6 @@ Cena 3D interativa na web com Three.js carregando modelo GLTF/GLB do Sketchfab.
 - **Arquivo local:** `model/scene.glb`
 - **Licença:** verifique a página do Sketchfab (CC Attribution ou equivalente).
 
-> Modelo original veio em FBX + DDS. Convertido para `.glb` para uso com `GLTFLoader`.
-
 ## Como executar
 
 Não precisa `npm install` — usa Three.js via CDN. Basta servir os arquivos estáticos:
