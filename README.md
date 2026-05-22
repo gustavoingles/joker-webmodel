@@ -5,7 +5,7 @@ Cena 3D interativa na web com Three.js carregando modelo GLTF/GLB do Sketchfab.
 ## Modelo
 
 - **Nome:** Joker — Persona 5 Strikers
-- **Fonte (Sketchfab):** https://sketchfab.com/3d-models/joker-persona-5-strikets-9ec3f7b50a994023ad6e9d9ddfd95ec1
+- **Fonte (Sketchfab):** <https://sketchfab.com/3d-models/joker-persona-5-strikets-9ec3f7b50a994023ad6e9d9ddfd95ec1>
 - **Arquivo local:** `model/scene.glb`
 - **Licença:** verifique a página do Sketchfab (CC Attribution ou equivalente).
 
